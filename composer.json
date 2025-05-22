@@ -28,7 +28,8 @@
     "workerman/webman-framework": "^2.1",
     "monolog/monolog": "^2.0",
     "webman/log": "^2.1",
-    "webman/console": "^2.1"
+    "webman/console": "^2.1",
+    "webman/admin": "~2.0"
   },
   "suggest": {
     "ext-event": "For better performance. "
